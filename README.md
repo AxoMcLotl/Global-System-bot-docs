@@ -9,7 +9,7 @@ Diese Repository enthält die offiziellen rechtlichen Dokumente, Dokumentationen
 ## 📄 Legal Documents / Rechtliche Dokumente
 
 *   **Terms of Service / Nutzungsbedingungen:**
-    *   [English & Deutsch / terms.md]([https://github.com/AxoMcLotl/Global-System-bot-docs/blob/main/terms.md)
+    *   [English & Deutsch / terms.md](https://github.com/AxoMcLotl/Global-System-bot-docs/blob/main/terms.md)
 *   **Privacy Policy / Datenschutzerklärung:**
     *   [English & Deutsch / privacy.md](https://github.com/AxoMcLotl/Global-System-bot-docs/blob/main/privacy.md)
 
